@@ -1227,7 +1227,7 @@ body {
   margin-bottom: 0;
 }
 .cid-qCsr08sshO .team-item .item-caption {
-  background: #ffffff;
+  background: #000000;
 }
 .cid-qCsr08sshO .item-social {
   display: block;
@@ -1301,6 +1301,12 @@ body {
   border-bottom-left-radius: 5rem;
 }
 .cid-qCsr08sshO .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-qCsr08sshO .item-name {
+  color: #ffffff;
+}
+.cid-qCsr08sshO .item-role P {
   color: #ffffff;
 }
 .cid-qCk4OfCKX7 {
