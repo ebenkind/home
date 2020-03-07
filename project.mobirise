@@ -145,7 +145,10 @@
               "text-align": "left"
             },
             "SPAN": {
-              "text-align": "center"
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_name": "header2",
